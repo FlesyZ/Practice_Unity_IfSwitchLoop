@@ -953,7 +953,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1866281988}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+  m_Script: {fileID: 11500000, guid: 1baf2d951ff900345adc27ac6377dd15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
@@ -1013,11 +1013,15 @@ MonoBehaviour:
       m_Calls: []
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
-  m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
+  m_SelectionColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.78431374}
   m_Text: 
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_DialogTitle: "\u8ACB\u8F38\u5165\u6307\u4EE4"
+  m_DialogOkBtn: "\u78BA\u5B9A"
+  m_DialogCancelBtn: "\u53D6\u6D88"
+  m_DialogType: 1
 --- !u!114 &1866281991
 MonoBehaviour:
   m_ObjectHideFlags: 0
